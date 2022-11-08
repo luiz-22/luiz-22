@@ -1,6 +1,6 @@
 # Hola, mi nombre es Luis 👋
 
-Soy desarrollador de software, cuyas pasiones son programar y aprender todo lo que pueda. Tengo interés en el desarrollo Web y Móvil. También tengo más de 10 años de experiencia en trabajos de ofimática.
+**Soy desarrollador de software, cuyas pasiones son programar y aprender todo lo que pueda. Tengo interés en el desarrollo Web y Móvil. También tengo más de 10 años de experiencia en trabajos de ofimática.**
 
 ## Lenguajes y herramientas
 
