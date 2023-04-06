@@ -5,7 +5,6 @@
 ### Languages and Tools:
 
 <p align="left"> 
-	![Drag Racing]("https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png")
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank" rel="noreferrer">
         <img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
