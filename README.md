@@ -1,8 +1,8 @@
-# Hola, mi nombre es Luis 👋
+# Hi there 👋
 
-**Soy desarrollador de software, cuyas pasiones son programar y aprender todo lo que pueda. Tengo interés en el desarrollo Web y Móvil. También tengo más de 10 años de experiencia en trabajos de ofimática.**
+**I am a software developer whose passions are programming and I like to learn as much as I can. I am interested in Web and Mobile development. I am an efficient person and I like to work in a team.**
 
-## Lenguajes y herramientas
+## Languages and Tools:
 
 <p align="left"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank" rel="noreferrer">
@@ -103,7 +103,7 @@
 	</a>
 </p>
 
-## Contáctame
+## Connect with me:
 
 <p align="left">
     <a href="https://www.linkedin.com/in/luiz22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
