@@ -55,7 +55,7 @@
 	</a>
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img
-			src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg](https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png)"
+			src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png"
 			alt="express"
 			width="40"
 			height="40"
