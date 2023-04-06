@@ -13,7 +13,6 @@
 			height="40"
 		/>
     </a>
-	
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img
 			src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"
@@ -21,8 +20,7 @@
 			width="40"
 			height="40"
 		/>
-    </a>
-    
+        </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img
 			src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"
@@ -31,8 +29,7 @@
 			height="40"
 		/>
     </a>
-    
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <a href="https://react.dev/" target="_blank" rel="noreferrer">
         <img
 			src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"
 			alt="react"
@@ -40,7 +37,6 @@
 			height="40"
 		/>
     </a>
-    
     <a href="https://redux.js.org" target="_blank" rel="noreferrer">
         <img
 			src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png"
@@ -49,73 +45,86 @@
 			height="40"
 		/>
     </a>
-    
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+			src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png"
 			alt="nodejs"
 			width="40"
 			height="40"
 		/>
     </a>
-
     <a href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img
-			src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png"
-			alt="express"
-			width="40"
-			height="40"
-		/>
+    		src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png"
+    		alt="express"
+    		width="40"
+    		height="40"
+    	/>
     </a>
-    
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
         <img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-			alt="postgresql"
-			width="40"
-			height="40"
-		/>
+    		src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png"
+    		alt="postgresql"
+    		width="40"
+    		height="40"
+    	/>
     </a>
-	
-    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
         <img
-			src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"
-			alt="kotlin"
-			width="40"
-			height="40"
-		/>
+    		src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png"
+    		alt="mongodb"
+    		width="40"
+    		height="40"
+    	/>
     </a>
-	
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img
+    		src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png"
+    		alt="mysql"
+    		width="40"
+    		height="40"
+    	/>
+    </a>
+        <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+        <img
+    		src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"
+    		alt="bootstrap"
+    		width="40"
+    		height="40"
+    	/>
+    </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img
-			src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-			alt="git"
-			width="40"
-			height="40"
-		/>
+    		src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
+    		alt="git"
+    		width="40"
+    		height="40"
+    	/>
     </a>
-	
     <a href="https://postman.com" target="_blank" rel="noreferrer">
         <img
-			src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-			alt="postman"
-			width="40"
-			height="40"
-		/>
+    		src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"
+    		alt="postman"
+    		width="40"
+    		height="40"
+    	/>
     </a>
-	
-    <a href="https://trello.com/" target="_blank" rel="noreferrer">
+        <a href="https://es-ar.wordpress.org/" target="_blank" rel="noreferrer">
         <img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain-wordmark.svg"
-			alt="trello"
-			width="40"
-			height="40"
-		/>
+    		src="https://user-images.githubusercontent.com/25181517/192158957-b1256181-356c-46a3-beb9-487af08a6266.png"
+    		alt="wordpress"
+    		width="40"
+    		height="40"
+    	/>
     </a>
 </p>
 
 ### Connect with me:
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/luiz22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/luiz22/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+    </a>
 </p>
+<!-- 
+https://github.com/marwin1991/profile-technology-icons/blob/main/README.md -->
