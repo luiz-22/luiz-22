@@ -101,18 +101,10 @@
     		height="40"
     	/>
     </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
+    	<a href="https://postman.com" target="_blank" rel="noreferrer">
         <img
     		src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"
     		alt="postman"
-    		width="40"
-    		height="40"
-    	/>
-    </a>
-        <a href="https://es-ar.wordpress.org/" target="_blank" rel="noreferrer">
-        <img
-    		src="https://user-images.githubusercontent.com/25181517/192158957-b1256181-356c-46a3-beb9-487af08a6266.png"
-    		alt="wordpress"
     		width="40"
     		height="40"
     	/>
