@@ -1,8 +1,8 @@
 ## Hola! 👋
 
-**I am a software developer whose passions are programming and I like to learn as much as I can. I am interested in Web and Mobile development. I am an efficient person and I like to work in a team.**
+**Soy desarrollador de Argentina y estoy interesado en el desarrollo web y móvil. Soy una persona eficiente y me gusta trabajar en equipo.**
 
-### Languages and Tools:
+### Tecnologías y herramientas que manejo:
 
 <p align="left"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank" rel="noreferrer">
