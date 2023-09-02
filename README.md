@@ -135,7 +135,7 @@
     </a>
 </p>
 
-### Connect with me:
+### Contáctame:
 
 <p align="left">
     <a href="https://www.linkedin.com/in/luiz22/" target="blank">
