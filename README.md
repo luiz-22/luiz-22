@@ -1,3 +1,3 @@
 ### Hola! 👋
 
-[BLog](https://luisblog.vercel.app/)
+[Blog](https://luisblog.vercel.app/)
